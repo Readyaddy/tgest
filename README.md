@@ -54,7 +54,7 @@ The project began with a basic RAG implementation facing significant limitations
 - Refine search within specific chunks
 
 #### Diagramatic Reprsentaion
-![Application Screenshot](./tgest/image.jpg)
+![Application Screenshot](./tgest/image.png)
 ### 4. Query Processing Mechanism
 
 #### 4.1 Query Complexity Detection
