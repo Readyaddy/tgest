@@ -53,6 +53,8 @@ The project began with a basic RAG implementation facing significant limitations
 - Retrieve corresponding full-text chunks
 - Refine search within specific chunks
 
+#### Diagramatic Reprsentaion
+![Application Screenshot](./tgest/image.jpg)
 ### 4. Query Processing Mechanism
 
 #### 4.1 Query Complexity Detection
